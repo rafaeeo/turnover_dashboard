@@ -60,5 +60,5 @@ streamlit run app.py
 
 ## ✍️ Autor
 
-Rafael E. Oliveira — Engenheiro Civil e Cientista de Dados  
+Rafael H. Almeida — Engenheiro Civil e Cientista de Dados  
 [https://github.com/rafaeeo](https://github.com/rafaeeo)
